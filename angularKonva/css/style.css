@@ -1,0 +1,31 @@
+h1 {
+	display: inline-block;
+	width: 100%;
+	margin: auto;
+	color: #5ba586;
+	text-align: center;
+	font-size: larger;
+}
+
+.extstyle {
+	position: absolute;
+	background-color: #e4dcf3;
+	padding: 25px;
+	margin: auto;
+	margin-top: -700px;
+	margin-left: 35%;
+	width: 22%;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: #94b9b4;
+	visibility: hidden;
+}
+
+.txtstyle {
+	background-color: #daeffa;
+	padding: 5px;
+}
+
+.txtFocus {
+	color: green;
+}
